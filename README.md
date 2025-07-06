@@ -106,10 +106,10 @@ Release date: 3-June-2025
 [1]: https://github.com/massgravel/Microsoft-Activation-Scripts
 [2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
 [3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
-[7]: https://twitter.com/massgravel
+[4]: https://discord.gg/TunerHimu
+[5]: https://www.reddit.com/r/TunerHimu
+[6]: https://youtube.com/TunerHimu
+[7]: https://twitter.com/TunerHimu
 
 ---
 
